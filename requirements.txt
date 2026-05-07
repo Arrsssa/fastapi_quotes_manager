@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-gradio
-pandas
-httpx
-beautifulsoup4
